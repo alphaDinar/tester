@@ -13,7 +13,7 @@ Django==3.2.2
 django-celery-beat==2.5.0
 django-celery-results==2.5.1
 django-redis==5.4.0
-django-timezone-field==5.0.1
+django-timezone-field==5.1
 kombu==5.3.2
 prompt-toolkit==3.0.39
 python-crontab==3.0.0
