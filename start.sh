@@ -1,0 +1,1 @@
+celery -A tester worker -l info
